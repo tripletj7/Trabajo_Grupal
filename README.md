@@ -127,11 +127,13 @@ CREATE TABLE notificaciones (
 
 ---
 
+Diseño De La APK
+
+![Diseño del la ap](https://github.com/user-attachments/assets/a1a40c30-fa64-4031-b71b-cc1159a84f4d)
+
 ## ▶️ Ejecución del Proyecto
 
-1. Abrir el proyecto en **Android Studio**  
-2. Ejecutar en un **emulador o dispositivo físico**  
-3. No requiere conexión a internet (funciona 100% offline)
+Postam: https://documenter.getpostman.com/view/39799790/2sB2x6kX6r#d27f152d-657f-4daa-87b5-612923fa85a0
 
 ---
 
