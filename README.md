@@ -135,6 +135,11 @@ CREATE TABLE notificaciones (
 
 ---
 
+Estructura De la Base de Datos 
+[Uploading README.md…]()
+
+
+
 ## 📌 Descripción del Proyecto
 
 La aplicación **Gestión de Incidencias** está diseñada para facilitar el **registro, seguimiento y control de incidentes** dentro de una organización.  
