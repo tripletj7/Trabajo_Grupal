@@ -1,14 +1,11 @@
-🛠️ Gestión de Incidencias – App Android
 
-Aplicación Android nativa desarrollada con Java y SQLite, que permite a los trabajadores de una empresa reportar, registrar y dar seguimiento a incidencias como accidentes o fallas de maquinaria.
-Incluye control de roles, zonas y estados de cada caso para una mejor gestión interna.
-
-👨‍💻 Integrantes del grupo
-Jampier 
 # 🛠️ Gestión de Incidencias – App Android
 
-Aplicación Android nativa desarrollada con **Java** y **SQLite**, que permite a los trabajadores de una empresa **reportar, registrar y dar seguimiento a incidencias** como accidentes o fallas de maquinaria.  
-Incluye control de roles, zonas y estados de cada caso para una mejor gestión interna.
+## 📌 Descripción del Proyecto
+
+La aplicación **Gestión de Incidencias** está diseñada para facilitar el **registro, seguimiento y control de incidentes** dentro de una organización.  
+Permite a los usuarios iniciar sesión según su rol (empleado, supervisor o administrador), **reportar accidentes o fallas**, y monitorear el estado de cada incidencia.  
+El sistema organiza la información por **zonas**, **tipos de incidentes** y **usuarios responsables**, brindando una herramienta clara y eficiente para mejorar la comunicación y la atención de problemas operativos.
 
 ---
 
@@ -143,9 +140,5 @@ Estructura De la Base de Datos
 ![estructura](https://github.com/user-attachments/assets/d73f87e1-4256-4aa9-bcae-077d09e23d5d)
 
 
-## 📌 Descripción del Proyecto
 
-La aplicación **Gestión de Incidencias** está diseñada para facilitar el **registro, seguimiento y control de incidentes** dentro de una organización.  
-Permite a los usuarios iniciar sesión según su rol (empleado, supervisor o administrador), **reportar accidentes o fallas**, y monitorear el estado de cada incidencia.  
-El sistema organiza la información por **zonas**, **tipos de incidentes** y **usuarios responsables**, brindando una herramienta clara y eficiente para mejorar la comunicación y la atención de problemas operativos.
 
