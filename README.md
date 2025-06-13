@@ -136,8 +136,9 @@ CREATE TABLE notificaciones (
 ---
 
 Estructura De la Base de Datos 
-[Uploading README.md…]()
 
+
+![estructura](https://github.com/user-attachments/assets/d73f87e1-4256-4aa9-bcae-077d09e23d5d)
 
 
 ## 📌 Descripción del Proyecto
