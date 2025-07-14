@@ -402,8 +402,6 @@ Postam: https://documenter.getpostman.com/view/39799790/2sB2x6kX6r#d27f152d-657f
 Estructura De la Base de Datos 
 
 
-![estructura](https://github.com/user-attachments/assets/d73f87e1-4256-4aa9-bcae-077d09e23d5d)
-
-
+![BASE DE DATOS](https://github.com/user-attachments/assets/3e3850ca-1091-425a-9db1-a86705d707f5)
 
 
